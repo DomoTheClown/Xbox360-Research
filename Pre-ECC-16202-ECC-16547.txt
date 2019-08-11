@@ -1,0 +1,163 @@
+1.00 0.99 ------- 00020000 sub_20000  00020000 sub_20000   edges callgraph MD index                             4     4     4     16     16     16     4     4     4
+1.00 0.99 ------- 00020578 sub_20578  00020578 sub_20578   edges callgraph MD index                             4     4     4     72     72     72     5     5     5
+1.00 0.99 ------- 00024AE0 sub_24AE0  00024AE0 sub_24AE0   edges callgraph MD index                             4     4     4     22     22     22     5     5     5
+1.00 0.99 ------- 00028278 sub_28278  00028278 sub_28278   edges callgraph MD index                             4     4     4     39     39     39     4     4     4
+1.00 0.99 ------- 0002BB90 sub_2BB90  0002BB90 sub_2BB90   prime signature matching                             4     4     4     19     19     19     5     5     5
+1.00 0.99 ------- 0002DA60 sub_2DA60  0002D9F8 sub_2D9F8   edges callgraph MD index                             4     4     4     47     47     47     4     4     4
+1.00 0.99 ------- 00031778 sub_31778  00031778 sub_31778   edges callgraph MD index                             4     4     4     32     32     32     3     3     3
+1.00 0.99 ------- 000084E0 sub_84E0   000082A8 sub_82A8    edges flowgraph MD index                            43    43    43    185    185    185    61    61    61
+1.00 0.99 ------- 00009738 sub_9738   00009500 sub_9500    edges flowgraph MD index                            37    37    37    115    115    115    53    53    53
+1.00 0.99 ------- 0000AD20 sub_AD20   0000AAB0 sub_AAB0    edges flowgraph MD index                            11    11    11     40     40     40    16    16    16
+1.00 0.99 ------- 0000B138 sub_B138   0000AEC8 sub_AEC8    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B358 sub_B358   0000B0E8 sub_B0E8    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B370 sub_B370   0000B100 sub_B100    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B458 sub_B458   0000B1E8 sub_B1E8    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B490 sub_B490   0000B220 sub_B220    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B4C0 sub_B4C0   0000B230 sub_B230    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B4E8 sub_B4E8   0000B278 sub_B278    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B4F0 sub_B4F0   0000B280 sub_B280    edges callgraph MD index                             3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 00023218 sub_23218  00023218 sub_23218   edges callgraph MD index                             3     3     3     24     24     24     3     3     3
+1.00 0.99 ------- 00024274 sub_24274  00024274 sub_24274   edges callgraph MD index                             3     3     3    147    147    147     3     3     3
+1.00 0.99 ------- 00024C0C sub_24C0C  00024C0C sub_24C0C   edges callgraph MD index                             3     3     3     31     31     31     3     3     3
+1.00 0.99 ------- 00031560 sub_31560  00031560 sub_31560   edges callgraph MD index                             3     3     3     53     53     53     3     3     3
+1.00 0.99 ------- 00009558 sub_9558   00009320 sub_9320    edges flowgraph MD index                            34    34    34    130    130    130    47    47    47
+1.00 0.99 ------- 00020128 sub_20128  00020128 sub_20128   edges callgraph MD index                            13    13    13     82     82     82    17    17    17
+1.00 0.99 ------- 00024F60 sub_24F60  00024F60 sub_24F60   edges callgraph MD index                             6     6     6     91     91     91     7     7     7
+1.00 0.99 ------- 00028738 sub_28738  00028738 sub_28738   edges flowgraph MD index                            20    20    20     60     60     60    27    27    27
+1.00 0.99 ------- 00009E78 sub_9E78   00009C40 sub_9C40    edges flowgraph MD index                            30    30    30    134    134    134    41    41    41
+1.00 0.99 ------- 00030488 sub_30488  00030488 sub_30488   edges flowgraph MD index                            48    48    48    173    173    173    72    72    72
+1.00 0.99 ------- 000038D8 sub_38D8   00003850 sub_3850    call reference matching                              7     7     7     48     48     48     8     8     8
+1.00 0.99 ------- 00025B50 sub_25B50  00025B50 sub_25B50   call reference matching                              7     7     7     58     58     58     8     8     8
+1.00 0.99 ------- 000286F0 sub_286F0  000286F0 sub_286F0   call reference matching                              7     7     7     18     18     18     9     9     9
+1.00 0.99 ------- 00024870 sub_24870  00024870 sub_24870   edges flowgraph MD index                            36    36    36    168    168    168    51    51    51
+1.00 0.99 ------- 000036A8 sub_36A8   00003620 sub_3620    prime signature matching                             2     2     2     52     52     52     1     1     1
+1.00 0.99 ------- 00006760 sub_6760   000065C8 sub_65C8    prime signature matching                             2     2     2     55     55     55     1     1     1
+1.00 0.99 ------- 000087A8 sub_87A8   00008570 sub_8570    edges flowgraph MD index                            35    35    35    148    148    148    49    49    49
+1.00 0.99 ------- 00023060 sub_23060  00023060 sub_23060   edges callgraph MD index                            11    11    11     51     51     51    13    13    13
+1.00 0.99 ------- 00023538 sub_23538  00023538 sub_23538   edges flowgraph MD index                             8     8     8     67     67     67     9     9     9
+1.00 0.99 ------- 00023620 sub_23620  00023620 sub_23620   edges callgraph MD index                             2     2     2     32     32     32     1     1     1
+1.00 0.99 ------- 00022BD0 sub_22BD0  00022BD0 sub_22BD0   edges callgraph MD index                            19    19    19     81     81     81    26    26    26
+1.00 0.99 ------- 000029D8 sub_29D8   00002898 sub_2898    call reference matching                              6     6     6     37     37     37     7     7     7
+1.00 0.99 ------- 00008C40 sub_8C40   00008A08 sub_8A08    call reference matching                              6     6     6     20     20     20     6     6     6
+1.00 0.99 ------- 000254A8 sub_254A8  000254A8 sub_254A8   call reference matching                              6     6     6     34     34     34     9     9     9
+1.00 0.99 ------- 0002BB40 sub_2BB40  0002BB40 sub_2BB40   call reference matching                              6     6     6     20     20     20     7     7     7
+1.00 0.99 ------- 0002CEC8 sub_2CEC8  0002CE70 sub_2CE70   call reference matching                              6     6     6     25     25     25     8     8     8
+1.00 0.99 ------- 000283B0 sub_283B0  000283B0 sub_283B0   edges callgraph MD index                            18    18    18     99     99     99    24    24    24
+1.00 0.99 ------- 00008E00 sub_8E00   00008BC8 sub_8BC8    edges flowgraph MD index                            95    95    95    367    367    367   137   137   137
+1.00 0.99 ------- 000317D8 sub_317D8  000317D8 sub_317D8   edges flowgraph MD index                             7     7     7     60     60     60     7     7     7
+1.00 0.99 ------- 00020108 sub_20108  00020108 sub_20108   MD index matching (flowgraph MD index, top down)     9     9     9    301    301    301    10    10    10
+1.00 0.99 ------- 000312E8 sub_312E8  000312E8 sub_312E8   edges flowgraph MD index                            21    21    21    110    110    110    27    27    27
+1.00 0.99 ------- 00008B80 sub_8B80   00008948 sub_8948    hash matching                                       13    13    13     48     48     48    17    17    17
+1.00 0.99 ------- 00024600 sub_24600  00024600 sub_24600   edges flowgraph MD index                            13    13    13     54     54     54    18    18    18
+1.00 0.99 ------- 00022DB8 sub_22DB8  00022DB8 sub_22DB8   call reference matching                             11    11    11     64     64     64    13    13    13
+1.00 0.99 ------- 000246B0 sub_246B0  000246B0 sub_246B0   edges callgraph MD index                            14    14    14     64     64     64    19    19    19
+1.00 0.99 ------- 000001B0 sub_1B0    000001B0 sub_1B0     hash matching                                        5     5     5     12     12     12     7     7     7
+1.00 0.99 ------- 000002E8 sub_2E8    000002E8 sub_2E8     prime signature matching                             1     1     1      4      4      4     0     0     0
+1.00 0.99 ------- 000004E8 sub_4E8    000004E8 sub_4E8     prime signature matching                             1     1     1      5      5      5     0     0     0
+1.00 0.99 ------- 000006B4 sub_6B4    000006B4 sub_6B4     prime signature matching                             1     1     1      6      6      6     0     0     0
+1.00 0.99 ------- 00000FD4 sub_FD4    00000FD4 sub_FD4     hash matching                                        5     5     5     17     17     17     6     6     6
+1.00 0.99 ------- 00003830 sub_3830   000037A8 sub_37A8    call reference matching                              4     4     4     29     29     29     4     4     4
+1.00 0.99 ------- 00023500 sub_23500  00023500 sub_23500   edges flowgraph MD index                             5     5     5     14     14     14     6     6     6
+1.00 0.99 ------- 000206F0 sub_206F0  000206F0 sub_206F0   edges flowgraph MD index                            22    22    22    104    104    104    28    28    28
+1.00 0.99 ------- 00022CF0 sub_22CF0  00022CF0 sub_22CF0   edges callgraph MD index                            12    12    12     60     60     60    14    14    14
+1.00 0.99 ------- 00008D88 sub_8D88   00008B50 sub_8B50    call reference matching                              3     3     3     29     29     29     3     3     3
+1.00 0.99 ------- 0000B0A8 sub_B0A8   0000AE38 sub_AE38    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B0B8 sub_B0B8   0000AE48 sub_AE48    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B0C0 sub_B0C0   0000AE50 sub_AE50    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B0C8 sub_B0C8   0000AE58 sub_AE58    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B0E0 sub_B0E0   0000AE70 sub_AE70    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B0E8 sub_B0E8   0000AE78 sub_AE78    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B0F0 sub_B0F0   0000AE80 sub_AE80    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B108 sub_B108   0000AE98 sub_AE98    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B110 sub_B110   0000AEA0 sub_AEA0    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B120 sub_B120   0000AEB0 sub_AEB0    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B398 sub_B398   0000B128 sub_B128    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B3A8 sub_B3A8   0000B138 sub_B138    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B3E8 sub_B3E8   0000B178 sub_B178    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B428 sub_B428   0000B1B8 sub_B1B8    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B448 sub_B448   0000B1D8 sub_B1D8    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B450 sub_B450   0000B1E0 sub_B1E0    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B480 sub_B480   0000B210 sub_B210    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B488 sub_B488   0000B218 sub_B218    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B498 sub_B498   0000B228 sub_B228    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B4B8 sub_B4B8   0000B248 sub_B248    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 0000B4C8 sub_B4C8   0000B258 sub_B258    call reference matching                              3     3     3      9      9      9     2     2     2
+1.00 0.99 ------- 00023010 sub_23010  00023010 sub_23010   call reference matching                              3     3     3     27     27     27     2     2     2
+1.00 0.99 ------- 00021968 sub_21968  00021968 sub_21968   edges flowgraph MD index                            17    17    17    170    170    170    18    18    18
+1.00 0.99 ------- 00022738 sub_22738  00022738 sub_22738   call reference matching                             18    18    18    306    306    306    22    22    22
+1.00 0.98 ------- 00020040 sub_20040  00020040 sub_20040   call reference matching                              2     2     2     11     11     11     1     1     1
+1.00 0.98 ------- 000034B8 sub_34B8   00003430 sub_3430    edges flowgraph MD index                            31    31    31    139    139    139    41    41    41
+1.00 0.98 ------- 000303F0 sub_303F0  000303F0 sub_303F0   edges flowgraph MD index                             6     6     6     48     48     48     5     5     5
+1.00 0.98 ------- 000244C0 sub_244C0  000244C0 sub_244C0   edges callgraph MD index                            10    10    10     57     57     57    10    10    10
+1.00 0.98 ------- 00023330 sub_23330  00023330 sub_23330   call reference matching                              5     5     5     80     80     80     4     4     4
+1.00 0.98 ------- 00003358 sub_3358   000032D0 sub_32D0    edges flowgraph MD index                            28    28    28    124    124    124    35    35    35
+1.00 0.98 ------C 00002FF0 sub_2FF0   00002EC0 sub_2EC0    prime signature matching                             1     1     1     19     19     19     0     0     0
+1.00 0.98 ------- 00008478 sub_8478   00008240 sub_8240    prime signature matching                             1     1     1     11     11     11     0     0     0
+1.00 0.98 ------- 00025210 sub_25210  00025210 sub_25210   prime signature matching                             1     1     1     34     34     34     0     0     0
+1.00 0.98 ------- 0000A800 sub_A800   0000A590 sub_A590    hash matching                                        4     4     4      8      8      8     3     3     3
+1.00 0.98 ------- 0002CAC0 sub_2CAC0  0002CA68 sub_2CA68   address sequence                                     4     4     4     60     60     60     4     4     4
+1.00 0.98 ------- 0002CC70 sub_2CC70  0002CC18 sub_2CC18   address sequence                                     4     4     4     60     60     60     4     4     4
+1.00 0.98 ------- 000001E0 sub_1E0    000001E0 sub_1E0     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 00000270 sub_270    00000270 sub_270     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 00000280 sub_280    00000280 sub_280     call reference matching                              1     1     1      5      5      5     0     0     0
+1.00 0.98 ------- 00000298 sub_298    00000298 sub_298     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 000002A8 sub_2A8    000002A8 sub_2A8     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 000002B8 sub_2B8    000002B8 sub_2B8     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 000002C8 sub_2C8    000002C8 sub_2C8     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 000002D8 sub_2D8    000002D8 sub_2D8     call reference matching                              1     1     1      4      4      4     0     0     0
+1.00 0.98 ------- 00000398 sub_398    00000398 sub_398     call reference matching                              1     1     1     11     11     11     0     0     0
+1.00 0.98 ------- 0000057C sub_57C    0000057C sub_57C     call reference matching                              1     1     1     11     11     11     0     0     0
+1.00 0.98 ------- 000005A8 sub_5A8    000005A8 sub_5A8     call reference matching                              1     1     1      6      6      6     0     0     0
+1.00 0.98 ------- 000005C0 sub_5C0    000005C0 sub_5C0     call reference matching                              1     1     1      6      6      6     0     0     0
+1.00 0.98 ------- 0000068C sub_68C    0000068C sub_68C     call reference matching                              1     1     1      5      5      5     0     0     0
+1.00 0.98 ------- 000006A0 sub_6A0    000006A0 sub_6A0     call reference matching                              1     1     1      5      5      5     0     0     0
+1.00 0.98 ------- 000006CC sub_6CC    000006CC sub_6CC     call reference matching                              1     1     1      6      6      6     0     0     0
+1.00 0.98 ------- 0000A80C sub_A80C   0000A59C sub_A59C    call reference matching                              1     1     1      5      5      5     0     0     0
+1.00 0.98 ------- 00020860 sub_20860  00020860 sub_20860   call reference matching                              1     1     1     21     21     21     0     0     0
+1.00 0.98 ------- 000208B8 sub_208B8  000208B8 sub_208B8   call reference matching                              1     1     1     22     22     22     0     0     0
+1.00 0.98 ------- 000226F0 sub_226F0  000226F0 sub_226F0   call reference matching                              1     1     1     18     18     18     0     0     0
+1.00 0.98 ------- 00031478 sub_31478  00031478 sub_31478   call reference matching                              1     1     1     58     58     58     0     0     0
+1.00 0.98 ------- 00031638 sub_31638  00031638 sub_31638   edges callgraph MD index                             7     7     7     90     90     90     6     6     6
+1.00 0.98 ------- 0000A7E8 sub_A7E8   0000A578 sub_A578    hash matching                                        8     8     8     14     14     14     7     7     7
+1.00 0.97 ------- 00021270 sub_21270  00021270 sub_21270   edges flowgraph MD index                            19    19    19    314    314    314    21    21    21
+1.00 0.97 ------- 00000E14 sub_E14    00000E14 sub_E14     edges flowgraph MD index                            17    17    17     71     71     71    18    18    18
+1.00 0.97 ------- 0000B140 sub_B140   0000B1B0 sub_B1B0    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B150 sub_B150   0000AEE8 sub_AEE8    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B160 sub_B160   0000B1C0 sub_B1C0    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B360 sub_B360   0000B208 sub_B208    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B430 sub_B430   0000B240 sub_B240    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B478 sub_B478   0000B270 sub_B270    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B4D0 sub_B4D0   0000B260 sub_B260    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 0000B4D8 sub_B4D8   0000B268 sub_B268    address sequence                                     3     3     3      9      9      9     2     2     2
+1.00 0.97 ------- 00021C70 sub_21C70  00021C70 sub_21C70   edges flowgraph MD index                            10    10    10    198    198    198     9     9     9
+1.00 0.97 ------- 0000A7FC sub_A7FC   0000A58C sub_A58C    edges callgraph MD index                             5     5     5      9      9      9     4     4     4
+1.00 0.96 ------- 0000A7F8 sub_A7F8   0000A588 sub_A588    hash matching                                        6     6     6     10     10     10     5     5     5
+1.00 0.96 ------- 00000464 sub_464    00000464 sub_464     call reference matching                              1     1     1      6      6      6     0     0     0
+1.00 0.96 ------- 00002540 sub_2540   00002400 sub_2400    call reference matching                              1     1     1     17     17     17     0     0     0
+1.00 0.96 ------- 00007498 sub_7498   000072E0 sub_72E0    call reference matching                              1     1     1     25     25     25     0     0     0
+1.00 0.96 ------- 0000A7F4 sub_A7F4   0000A584 sub_A584    hash matching                                        7     7     7     11     11     11     6     6     6
+1.00 0.96 ------- 000035B0 sub_35B0   00003528 sub_3528    MD index matching (flowgraph MD index, top down)    10    10    10     28     28     28    13    13    13
+1.00 0.96 ------- 0000A7D0 sub_A7D0   0000A560 sub_A560    hash matching                                       13    13    13     20     20     20    12    12    12
+1.00 0.95 ------- 00002BB8 sub_2BB8   00002A78 sub_2A78    prime signature matching                             1     1     1      2      2      2     0     0     0
+1.00 0.95 ------- 0000A7E4 sub_A7E4   0000A574 sub_A574    hash matching                                        9     9     9     15     15     15     8     8     8
+1.00 0.94 ------- 0000A7E0 sub_A7E0   0000A570 sub_A570    hash matching                                       10    10    10     16     16     16     9     9     9
+1.00 0.94 ------- 0000A7DC sub_A7DC   0000A56C sub_A56C    hash matching                                       11    11    11     17     17     17    10    10    10
+1.00 0.94 ------- 0000A7D8 sub_A7D8   0000A568 sub_A568    hash matching                                       12    12    12     18     18     18    11    11    11
+1.00 0.92 ------- 000035A0 sub_35A0   00003518 sub_3518    MD index matching (callGraph MD index, top down)     1     1     1      3      3      3     0     0     0
+1.00 0.90 ------- 000004CC sub_4CC    000004CC sub_4CC     call reference matching                              1     1     1      3      3      3     0     0     0
+1.00 0.88 ------- 000003E0 sub_3E0    000003E0 sub_3E0     address sequence                                     1     1     1      4      4      4     0     0     0
+1.00 0.88 ------- 000003F0 sub_3F0    000003F0 sub_3F0     address sequence                                     1     1     1      4      4      4     0     0     0
+1.00 0.88 ------- 000005D8 sub_5D8    000005D8 sub_5D8     address sequence                                     1     1     1      5      5      5     0     0     0
+1.00 0.88 ------- 000005EC sub_5EC    000005EC sub_5EC     address sequence                                     1     1     1      5      5      5     0     0     0
+0.98 0.99 GI----- 00020910 sub_20910  00020910 sub_20910   edges callgraph MD index                            61    62    61    278    282    282    86    88    87
+0.96 0.98 -I--E-C 00003760 sub_3760   00006690 sub_6690    MD index matching (flowgraph MD index, top down)     2     2     2     41     57     50     1     1     1
+0.96 0.98 -I--E-C 00006828 sub_6828   000036D8 sub_36D8    MD index matching (flowgraph MD index, top down)     2     2     2     41     50     57     1     1     1
+0.87 0.99 GI--E-- 0002D7C0 sub_2D7C0  0002D728 sub_2D728   edges callgraph MD index                             8    10     8     46     54     47    10    15    12
+0.81 0.95 GI----- 00002210 sub_2210   00001C78 sub_1C78    call reference matching                             16    16    21     79    146    145    19    21    31
+0.39 0.93 GI--EL- 00001E08 sub_1E08   000053D0 sub_53D0    call sequence matching(sequence)                     4    29     4     12     93     15     3    40     3
+0.35 0.62 GI--E-- 0010D9B8 sub_10D9B8 0000AEE0 sub_AEE0    call sequence matching(exact)                        3    10     3      0     14      9     1     9     2
+0.28 0.56 GI--ELC 000C59B0 sub_C59B0  00009EE8 sub_9EE8    edges callgraph MD index                             8     9    45     13     50    192     6    12    69
+0.25 0.56 GI--E-- 000C6410 sub_C6410  00000364 sub_364     edges callgraph MD index                             7    52    12     14    194     90     4    77    18
+0.24 0.45 GI--E-- 00002B00 sub_2B00   00003DF0 sub_3DF0    call sequence matching(sequence)                     4    10    24      3     45    177     2    13    35
+0.22 0.45 GI--E-C 000B8F28 sub_B8F28  00002A80 sub_2A80    edges callgraph MD index                             4     4    19     11     56    145     3     4    27
+0.11 0.24 GI--E-- 00110DD0 sub_110DD0 00001B20 sub_1B20    loop count matching                                  5     5    24      6    114     85     3     5    34

@@ -1,0 +1,601 @@
+;
+;________________________________________________________________________________
+;
+;                        PLEASE KEEP THIS FILE Sorted!!!
+;
+;   This file is a list of builds to keep on the long time retention servers
+;
+;   It is comma delimited:
+;     Build#,Comment to associate with build
+;   
+;   All lines starting with ";" will be sorted to the top by the "Add Build to
+;   KEEP.TXT" job. If you would like to add a comment to your build entry add
+;   it at the end of the line.
+;
+;                        PLEASE KEEP THIS FILE Sorted!!!
+;________________________________________________________________________________
+9828.2,jun09 QFE 9828.2 
+9761,LKG CodecPack01 (as of 8/19/2009) 
+9610,Dev10 LKG compiler for Jan2010 
+9501,November XDK Tech Preview 
+9485,
+9472,
+9446,Jan2010 compiler LKG1 candidate
+9328.9,jun09 QFE 9328.9 
+9328.8,jun09 QFE 9328.8 
+9328.8,9328.8 Jun09 QFE on 9/21/2009 
+9328.7,Jun09 QFE 9328.7 on Sep 3, 2009 
+9328.6,June 09 QFE Number 6 
+9328.5,QFE Jun09 9328.5 
+9328.5,QFE Jun09 9328.5 
+9328.4,QFE Jun09 9328.4 
+9328.3,jun09 QFE 9328.3 on August 3, 2009 
+9328.2,QFE Jun09 9328.2 
+9328.13,June09 XDK QFE 9328.13 
+9328.12,QFE for June09 
+9328.11,Private QFE for June 2009 
+9328.10,Private QFE for June 2009
+9328.1,QFE from Jun09 on July 15 2009 
+9296,mf$(d).lib files handed off to Turn 10 for a private QFE 
+9199,Spring10 Munich RTM and Mar10 XDK 
+9189,February 2010 XDK Preview Flash Build 9189
+9102,use flash-spring10_9102 for Project V Hardware Validation per Yu Meng Lim request 
+9074,flash-spring10 9074 
+9071,Green Build handed off to Manufacturing 
+9069,Green Signed Munich build provided on 7/6/09 
+9068,
+9065,
+9063,
+9056,Last known good Omni-N build 
+8966,Fall09 Milan RTM (rebuild of 8955 to fix green mfg image) 
+8964, Vanguard released build #2
+8961,Vanguard released build #1 
+8955,Fall09 Milan RTW Release 
+8953,Final RTM build for Milan, this build was only released to Manufacturing 
+8939,Chamaeleon Pre-Beta Test Flash 
+8912,Base image for OmniN DV delta patch. Includes bugcheck security mitigation. 
+8906,Second green-signed OmniN build 
+8863,LKG for Omni-N and WaveA driver 
+8853,
+8852,Omni-N LKG 
+8507,Spring09 Geneva QFE Release build 
+8507,Requested by Brian Keogh 
+8498,Spring09 Geneva release 
+8496,Integration with 8496 flash 
+8492,flash-spring09 
+8490,Zune c9 moving to use flash 8490 
+8485,Chamaeleon (c9 - zune client), moving to flash 8485 
+8423,Chamaeleon team is currently bound to this build for development. 
+8403,Chamaeleon Team is currently mapped to this Flash build. 
+8392,Tech-Preview flash build released to select external partners. 
+8364,
+8348,Trinity bringup applications 
+8329,Mar09 compiler Tech Preview 2
+8311,
+8310,Tech-Preview recovery released to select external partners. 
+8276.2,Mar09 QFE 8276.2 
+8276.1,Keep QFE 8276.1 
+8276,Mar09 - Final release build 
+8275,
+8255,ADK recovery release to the hardware team 
+8228,Build was used for January GameDisc Tech Preview 
+8217,ADK Testing(Norm LeMieux)
+8216,LKG CodecPack01 (as of 12/29/2008) 
+8212,
+8211,
+8204,ADK EV2 
+8190,
+8184,Mar09 compiler Tech Preview 1
+8182,Requested by JimVu 
+8106,Nov08 compiler LKG
+8089,NDK Pre-Alpha Release Build 
+8033,February 2010 XDK Preview Flash Build 
+8025,NDK-Preview Dec09(flash) 
+8025,December 2009 XDK Technical Preview Flash Build 
+8014,Nov09 NDK Technical Preview Flash build (flash-redeye) 
+8013,Nov09 NDK Technical Preview Flash build (flash-redeye) 
+8011,September 2009 XDK Tech Preview 
+8009,
+8002,
+7978.3,
+7978.2,
+7978.1,D3D9.lib preview drop to unblock external partner 
+7978,Nov08 - Final release build 
+7972,Build that is being used by music titles to TU for wireless microphone 
+7945,Nov08 compiler LKG candidate
+7939,main interim compiler LKG
+7776.1,Aug08 private QFE include Jasper Test Kit ROMs in recovery 
+7776,Aug08 - Final release build
+7710,main -Mar08 linker QFE
+7657,Jun08-preview - Fall08 feature preview with 7308 flash 
+7650,Handed out to select partners - Dennis Mooney 
+7645.3,
+7645.2,Jun08 XDK private QFE for XAUDIO2 
+7645.1, Jun08 QFE
+7645,Jun08 - Final release build 
+7530,MTE 3.91 CM Suite Release 
+7518,MTE Xenon 3.90.0 Suite 
+7515,MTE 3.90 JADV Suite
+7436,Kiosk 2009 Release Candidate 
+7371,QFE Build (addressing ODD issues) released to public 
+7366,Flash released in the Mar09 XDK to support ADK hardware 
+7363,QFE Build 
+7359,Fall08 flash for developer release - fixed page heap issue with checked bits. 
+7358,Fall08 flash for developer release 
+7357,Final Release build - Fall08 NXE (11/19) 
+7349,RC build. We have entered Cert with this build 
+7342,Fall08 preview flash shipped in Nov08 
+7327,Fall08 flash shipped in 7661 Jun08-preview 
+7317,LKG CodecPack01 (as of 9/16/2008) - Official Fall08 Release
+7288,
+7151,main Contains the latest main tree C compiler (and the Mar08 QFE compiler)
+7121,gamedisc bits
+7086,project N drop to Rare 
+7075,flash-newton - Private drop to a customer
+7074,flash-newton - Private drop to a customer
+7070,flash-newton - Private drop to a customer
+7068,flash-newton 
+7048,LIPS official build for iNiS, support for v.5 Fw 
+7046,official LIPS build to fix XSIM, XBDM 
+7045,
+7041,Drop for LIPS
+7036,flash-lips - XMic API for external developers
+7032,main - Latest compiler LKG
+6995.1,Mar08 XDK Release QFE 6995.1
+6995,Mar08 XDK Release
+6969,Compiler LKG
+6937,main - Includes dogfood compiler binaries which will likely be the next LKG
+6907,Jasper EV2B/C
+6840,TCS 2.60 Hotfix
+6839,MTE 3.83 Suite
+6836,MTE 3.82 Suite
+6828,MTE 3.80.X Test suite
+6784,China Home Trial
+6770,RC for LIPS flash 
+6766,Summer 2008 system update (LIPS) 
+6765,official LIPS flash RC 
+6761,RC for spring08-lips 
+6723,Spr08 flash build used for test kit production 
+6722.2,fix for purchase history 
+6722.1,QFE - SPRING 08 - Remove Promotions from Media Site: Republish the default 
+6719,Contains continous audio drop by PGP team 
+6717,Spring 08 Flash update
+6712,Jasper EV3B
+6707,Jasper EV2C
+6690,Flash-Fall07 QFE
+6686,Flash-Fall07 update
+6683.4,Flash-Fall07 International Video Marketplace Launch
+6683.3,Flash-Fall07 IVM on with featured item fix and new storefront backgrounds for EN-UK EN-IR EN-CA FR-CA 
+6683.2,Flash-Fall07 IVM on with featured item fix 
+6683.1,Fall 07 - adCenter and Video Marketplace ALL OFF
+6683,Flash-Fall07 RTM
+6682.2,Flash-fall07 - adCenter and International Video Marketplace OFF 
+6682.1,Flash-fall07 - Video Marketplace ALL OFF
+6681,Flash-fall07 - International Video Marketplace OFF
+6642,carbon-iptv07 - last build from carbon-iptv07 branch
+6534.7,Nov07 QFE
+6534.6,Nov07 QFE
+6534.5,Nov07 QFE
+6534.4,Nov07 QFE - Public mandatory QFE
+6534.3,Nov07 QFE
+6534.2,Nov07 QFE
+6534.1,Nov07 QFE
+6534,Nov07
+6502,Compiler LKG
+6438,dogfood
+6336,mte-3.7x
+6329,mte-3.7x
+6274.3,QFE
+6274.2,QFE
+6274.1,Aug07 QFE
+6274,Aug07
+6251,Compiler LKG
+6132.6,QFE
+6132.5,QFE
+6132.4,QFE
+6132.3,QFE
+6132.2,QFE
+6132.1,QFE
+6132,Jun07
+6130,Jun07 compiler
+6036,mte-3.6x
+6031,mte-3.6x
+6021,dogfood
+6001,dogfood
+5831,Fusion 1.9 Installer
+5829,Fusion 1.9
+5820,fusion 1.8
+5805,fusion 1.7
+5789,Flash-Dawson
+5787,Flash-Dawson
+5770,Falcon 1GB Qimoda Qualification II
+5769.3,QFE
+5769.2,QFE
+5769.1,QFE
+5769,MTE- 5 min SATA HDD timeout
+5768,Falcon 1GB Qimoda Qualification
+5766,Spring07 QFE
+5763,Spring07 + 6BL650
+5760,Spring07 + Server fix
+5759,Spring flash release
+5749,Bungie preview flash release
+5730, Year3 GPU Bringup and Falcon Memory Qualification
+5632.5,QFE
+5632.4,QFE
+5632.2,QFE
+5632.1,QFE
+5632,Apr07
+5605,private to bungie
+5542,mte-3.5x
+5525,Content Migration Utility RTM
+5501,Memory Qualification
+5426.2,QFE
+5426.1,QFE
+5426,Feb07
+5014,Fusion 1.6
+4929.7,Dec06 QFE
+4929.6,Dec06 QFE
+4929.5,Dec06 QFE
+4929.4,Dec06 QFE
+4929.3,Dec06 QFE
+4929.2,Dec06 QFE
+4929.1,Dec06 QFE
+4929,dec06
+4802.2,QFE
+4802.1,Oct06 QFE
+4802,oct06
+4554,flash-fall06
+4552,flash-fall06 RTM
+4550,flash-fall06 console test
+4314.1,Oct06
+4314,Oct06 Original Release
+4025.4,private d3d qfe for dash
+4025.3,xact QFE
+4025.2,QFE
+4025.1,QFE
+4025,Sep06
+4022,Sep06 flash
+3921,xefu 1.5
+3529.2,QFE
+3529.1,QFE
+3529,Aug06
+3424,jul06
+3215.1,QFE
+2920.2,QFE
+2920.1,May06 xcam QFE
+2868,spring06+monaco
+2863,flash
+2858,flash-spring06
+2732.2,apr06
+2417.5,nov05
+2321,xefu launch
+2258,au cache fix
+2255,Jan AU
+2241
+21211,Approved compiler binaries for Nov12 XDK 
+21173.9,21173.9 
+21173.8,\\edge-svcs\release\xenon.v2\XDKJUL12\21173.8 
+21173.6,\\edge-svcs\release\xenon.v2\XDKJUL12\21173.6 
+21173.5,\\edge-svcs\release\xenon.v2\XDKJUL12\21173.5 
+21173.4,XDK QFE July 2012 #4 
+21173.3,XDK QFE July 12 #3 
+21173.3,JULY XDK QFE 3 
+21173.2,XDK QFE JULY 12 2 
+21173.10,21173.10 
+21173.1,XDK QFE 1 
+21173,XDKJUL12 
+21119.9,Main_XDKFEB12 
+21119.7,QFE 7 
+21119.6,XDK QFE FEB12 - 6 
+21119.5,March 12 XDK 
+21119.4,XDK QFE  4 
+21119.3,XDK QFE 4 
+21119.3,XDK QFE 3 
+21119.12,21119.12 
+21119.12,\\edge-svcs\release\XENON.v2\Main_XDKFEB12\21119.12 
+21119.10,XDK QFE March 2012 #10 
+21119,Last Full Build 
+21076.9,Nov11 QFE 9 
+21076.8,Nov11 QFE 8 
+21076.7,Nov11 QFE 7 
+21076.6,December 2011 XDK release final nov11 
+21076.4,Nov11 XDK QFE 4 
+21076.3,Nov11 XDK QFE 3 
+21076.2,Nov11 XDK QFE 2
+21076.13,Nov11 QFE 13
+21076.13,\\edge-svcs\release\XENON.v2\xdk-main-nov11\21076.13 
+21076.12,Nov11 QFE 12
+21076.11,Nov11 QFE 11
+21076.11,\\edge-svcs\release\XENON.v2\xdk-main-nov11\21076.11 
+21076.10,Nov11 QFE 10 
+21076.1,Nov2011 XDK 21076.1 
+21076,Xdk-Main-Nov11 last full build 
+2099.14
+20871.7,August 2011 XDK QFE 7 
+20871.6,AUG11 XDK QFE 6 
+20871.5,AUG11 XDK QFE 5
+20871.4,AUG11 XDK QFE 4
+20871.3,AUG11 XDK QFE 3 
+20871.2,AUG11 XDK QFE 2
+20871.1,AUG11 XDK QFE 1
+20871,Aug11 XDK 20871 
+20764.9,June 2011 XDK QFE 9 
+20764.8,June 2011 XDK QFE 8
+20764.7,June 2011 XDK QFE 7 
+20764.6,June 2011 XDK QFE 6 
+20764.5,June 2011 XDK QFE 5 
+20764.4,June 2011 XDK QFE 4 
+20764.3,June 2011 XDK QFE 3
+20764.2,June 2011 XDK QFE 2 
+20764.11,Jun11 QFE 11 
+20764.10,June 2011 XDK QFE 10
+20764.1,June 2011 XDK QFE 1
+20764,Xdk-Main-Jun11 last full build 
+20680,public release for May2011 XDK Preview 
+20500.3,Feb11 QFE 
+20500.2,XDK  Feb11 QFE2 
+20500.1,XDK  Feb11 QFE2 
+20500,Feb 2011 XDK RTM 
+20476,Feb11 compiler Tech Preview
+20353.2,Recovery Build Only 
+20353.1,Nov 10 QFE 
+20353,Nov10 XDX Build 
+20332,VS 2010 Private Partner Preview build
+20286,Unknown preserved XDK-Main-NUIHands-Zune build
+20209.3,September XDK QFE 3 
+20209,Sept 2010 XDK RTW
+1888,
+16197,Public Beta Pre-Release build 
+16197,16197 
+16195,Public Beta Candidate Pre-Release build 
+16194,Public Beta Candidate Pre-Release build 
+16191,Public Beta Candidate Pre-Release build 
+16189,Public Beta Candidate Pre-Release build 
+16186,Public Beta Candidate Pre-Release build 
+16178,Public Beta Candidate Pre-Release build 
+16167,Public Beta Candidate Pre-Release build 
+16165,Pre-Release Build 
+16154,Public Beta Candidate Pre-Release build 
+16145,Public Beta Candidate Pre-Release build 
+16144,Public Beta Candidate Pre-Release build 
+16133,Public Beta Candidate Pre-Release build 
+16127,Public Beta Candidate Pre-Release build 
+16113,Public Beta Candidate Pre-Release build 
+16113,Pre-Release build deployed to Beta 
+16098,Released to Takehome - London Build,Pre-Release build deployed to Beta audience.
+16091,Public Beta Candidate Pre-Release build 
+16090,Pre-Release build deployed to Valdation/Approved compiler binaries for Nov12 XDK
+16083,Released to Takehome - London Build 
+16078,Compiler LKG candidate for Nov12 XDK 
+16061,Released to Takehome - London Build 
+16056,Released to Takehome - London Build 
+16048,Released to Takehome - London Build 
+16048,Denali development and takehome build 
+16041,Released to Takehome - London Build 
+16025,TakeHome and Denali/Isis development build 
+16025,Released to Takehome - London build 
+16023,Released to Takehome - London build 
+16014,Retention for Isis/Denali Development/Takehome Build 
+16008,Development flash/xdk for Isis/Denali 
+15989,Released to Takehome - London build 
+15925,Denali/Isis development build 
+15905,May 2012 compiler tech preview 
+15574,Released to Takehome - Glasgow Build 
+15572,Released to Takehome - Glasgow build 
+15571,Released to Takehome - Glasgow build 
+15568,Released to Takehome - Glasgow build 
+15567,Released to Takehome - Glasgow build 
+15561,Released to Takehome - Glasgow build 
+15557,Released to Takehome - Glasgow build 
+15555,Released to Takehome - Glasgow build 
+15550,Released to Takehome - Glasgow build 
+15548,Released to Takehome - Glasgow build 
+15540,Released to Takehome - Glasgow build 
+15532,Glasgow flash released to Beta 
+15527,Glasgow build released to takehome 
+15512,Released to Takehome audience - Glasgow Build 
+15493,Released to Takehome audience - Glasgow Build 
+15481,Development build for Isis/Denali 
+15443,Denali/Isis development build 
+14905,Isis/Denali development build 
+14835,UXF build complement of Denali 14095 
+14810,Denali/Isis development build 
+14719,Released to Takehome and Beta audience 
+14718,Released to Takehome and Beta audience 
+14717,Released to Takehome and Beta audience 
+14715,Madrid QFE Build released to Takehome/Beta 
+14707,Madrid Build released to Takehome/Beta 
+14699,Madrid Takehome/Beta/RTW Build - RC3 
+14698,Madrid Takehome/Beta/RTW Build - RC2 
+14696,Madrid Takehome/Beta Build - Cert Build 
+14694,Madrid Takehome/Beta Build 
+14692,Madrid Takehome/Beta Build 
+14690,Madrid Takehome/Beta Build 
+14688,Madrid Takehome/Beta Build 
+14686,Madrid Takehome/Beta Build 
+14684,Madrid Takehome/Beta Build 
+14681,Madrid Takehome/Beta Build 
+14678,Madrid Takehome/Beta Build 
+14676,Madrid Takehome/Beta Build 
+14662,Madrid Takehome/Beta Build 
+14660,Madrid Takehome/Beta Build 
+14656,Madrid Takehome/Beta Build 
+14653,Madrid Takehome/Beta Build 
+14652,Madrid Takehome/Beta Build 
+14645,Madrid Takehome/Beta Build 
+14635,Madrid Takehome/Beta Build 
+14627,Madrid Takehome/Beta Build 
+14612,Madrid Takehome Build 
+14611,Madrid Beta Registration application
+14607,Madrid Takehome Build 
+14598,Madrid Takehome Build 
+14597,Madrid Takehome Build 
+14586,Madrid Takehome Build 
+14583,Denali interim developmnet build 
+14478,Madrid Takehome Build 
+14476,Madrid Build for Takehome, 1st Beta Candidate 
+14474,Madrid Build for Takehome 
+14461,Madrid Build for Takehome 
+14451,Madrid Build for Takehome 
+14448,Madrid Build for Takehome 
+14436,takehome 
+14427,Madrid Takehome Build - August 
+14423,Denali exploratory build 
+14415,Madrid Takehome Build - August 
+14403,Madrid Takehome - Round 5 
+14403,MADRID 
+14385,Madrid Takehome #4 - plus targeted fixes 
+14385,Madrid Takehome - July XDK QFE 
+14282,Live-Client fix to replace 14276 
+14282,Klondike Exploratory Build 
+14276,OMU3 
+14267,Madrid Takehome Build 
+14266,Madrid Takehome Build 
+14265,Klondike Team Dependency 
+14259,DENALI Flash dependency for current builds. 
+14248,Madrid build for Takehome 
+14247,Madrid build for Takehome 
+14226,Madrid takehome build 
+14214,Denali Flash Dependent Build 
+14094,Build 14094 
+13604,Lima Build for Production QFE Release 
+13599,Lima build for Beta - RC build 
+13598,Lima build for Beta - RC build 
+13597,Lima build for Beta - RC build 
+13596,Takehome/Beta Live-Client-Lima 
+13592,Lima Beta/Takehome build 
+13572,LIma Build for Nazca Manufacturing Validation 
+13570,Lima build for Takehome 
+13569,Lima build for Takehome 
+13558,Lima build for Takehome 
+13554,lima build for MTE 
+13549,lima build for MTE 
+13544,lima build released to takehome 
+13535,Nazca EV2 camera Partner 
+13528,lima build released to takehome 
+1332,mar05_1332 
+13146,xdk 
+13146,bucharest-hcdf RC5 
+13145,Bucharest-hcdf RC4 
+13142,Bucharest retail build released to Beta 
+13141,Bucharest retail build released to Beta 
+13140,Bucharest retail build released to Beta 
+13139,Bucharest retail build released to Beta 
+13134,Bucharest retail build released to Beta 
+13131,Bucharest retail build released to Beta 
+13130,Bucharest retail build released to Beta 
+13125,Bucharest retail build released to Beta 
+13121,Bucharest retail build released to Beta / MTE drop 
+13117,Bucharest retail build released to Beta 
+13116,Bucharest retail build released to Beta 
+13115,Bucharest retail build released to Beta 
+13106,Bucharest retail build released to Beta 
+13100,Bucharest retail build released to Beta 
+12986,Corona EV4C console validation 
+12981,Corona EV4C console validation 
+12969,A significant Corona build, because use of 12970 and beyond requires HW rework to the boards 
+12951,Greensign for Ashley 
+12949,Build being applied to media for HCDF testing 
+12905,WaveA device image for Corona EV3B
+12866,Live-Client-Bucharest 12866 
+12625,RTW build of Berlin QFE-2 
+12611,Live Client build 12611 
+12610,Berlin Build released to Beta 
+12609,Berlin Build released to Beta 
+12607,Berlin Build released to Beta 
+12606,Berlin Build released to Beta 
+12603,Berlin Build released to Beta 
+12599,Berlin Build released to Beta 
+12597,Berlin Build released to Beta 
+12595,Berlin Build released to Beta 
+12590,Berlin Build released to Beta 
+12589,Berlin Build released to Beta 
+12587,Berlin Build released to Beta 
+12583,Berlin Build released to Beta 
+12581,Berlin Build released to Beta 
+12580,Berlin Build released to Beta 
+12575,Berlin Build released to Beta 
+12574,Berlin Build released to Beta 
+12573,Berlin Build released to Beta 
+12569,Berlin Build released to Beta 
+12567,Berlin Build released to Beta 
+12565,Berlin Build released to Beta 
+12560,Berlin Build released to Beta 
+12558,Berlin Build released to Beta 
+12551,Berlin Build released to Beta 
+12546,Berlin Build released to Beta 
+12416,RTM Final build for Berlin (12416) 
+12413,RTM build for Berlin (12413) 
+12408,Berlin Build released to Beta 
+12404,Berlin Build released to Beta 
+12402,Berlin Build released to Beta 
+12399,Berlin Build released to Beta 
+12394,Berlin Build released to Beta 
+12392,Berlin Build released to Beta 
+12387,shipped in Jun10 XDK Kinect Preview Flash 3 recovery 
+12384,Berlin Build released to Beta 
+12379,Berlin Build released to Beta 
+12377,Berlin Build released to Beta 
+12366,Berlin Build released to Beta 
+12365,Berlin Build released to Beta 
+12353,Berlin Build released to Beta 
+12341,Berlin Build released to Beta (~07/16/2010) 
+12341,Berlin Build released to Beta 
+12340,Berlin Build released to Beta 
+12332,Berlin Build released to Beta 
+12330,Berlin Build released to Beta (~07/09/2010) 
+12278,Berlin Build released to Beta (~07/01/2010) 
+12277,Berlin Build released to Beta 
+12275, shipped in Jun10 XDK Kinect Preview Flash 2 recovery
+12209, shipped in June10 XDK Kinect Preview Flash 1 recovery
+12153,Zune final M2 flash - contact DFu, SPrabhu 
+12138,Xbox Zune client integration point for NUI 
+11886,Nov2010 compiler LKG candidate
+11775.9,July 2010 XDK QFE 9 
+11775.8,July XDK QFE 8 
+11775.7,Jul10 XDK QFE 7 
+11775.4,July XDK QFE 4 
+11775.3,July 2010 XDK QFE3 
+11775.2,Update to the latest Berlin flash and fix and firmware updgrade fix 
+11775.12,Jul10 XDK QFE 12 
+11775.11,July XDK QFE 11 
+11775.1,QFE 1 July10 XDK 
+11775,July10 XDK First approved Kinect Libs  
+11658, shipped in June2010 XDK release recovery
+11626.4,Jun10 XDK QFE 4 
+11626.3,JUN10 XDK QFE 3 
+11626.2,JUN10 XDK QFE 2 
+11626.1,Jun10 XDK flash TechPreview 1
+11626, XDK June2010 release
+11620,Live-Client i386 LKG
+11551, Xbox Zune client XDK integration point for NUI
+11513,May10 XDK TechPreview 
+11512,May10 XDK TechPreview QFE
+11511,May10 XDK TechPreview
+11427,Mar10 
+11164.4, xwmadecoded lib
+11164.3,February 2010 XDK QFE 11164 .3 ( on 04/09-2010)
+11164.2,February 2010 XDK QFE 11164 .2 ( on 02/26-2010)
+11164.1,February 2010 XDK Recovery 11164.1
+11164,February 2010 XDK 11164 
+11117,XDK-Main 
+11070,December-09 XDK Tech Preview 
+11027, May10 XDK TechPreview lash
+11026, May10 XDK TechPreview QFE flash
+11025, May10 XDK TechPreview flash
+11008,Mar10 
+10586,Keep idw tools for signing live-client
+10552,Keep idw tools for signing live-client-hw
+10358,Mar2010 compiler preview
+10224,Integrated by Chamaeleon 
+10224,Feb10 compiler LKG
+10217,
+10112,
+10090,LKG for codecpack (as of 11/9/09) 
+10090,Codepack01 LKG (as of 11/2/09)
+10089,Dash LKGs (as of 11/2/09)
+10088,First snapshot of Xenon\MAIN into Xenon-Chamaelon for C10 MQ work 
+10000.3,This is a test for XDK QFE automation. 
+10000,Test for improved add build to keep.txt script 
+0634,xenon_jul04_0634 
+0338,xenon_apr04_0338 21076.6,21076.6,Xdk-Main-Nov11 released as December 2011 XDK 
